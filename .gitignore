@@ -1,0 +1,7 @@
+*.swp
+.tags
+callvis.png
+callvis.dot
+coverage.out
+coverage.html
+login_test.go
