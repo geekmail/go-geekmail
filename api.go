@@ -1,7 +1,7 @@
 package geekmail
 
 const (
-	defaultBaseURL = "https://geekmail.app/api/1.0/"
+	defaultBaseURL = "https://geekmail.appspot.com/api/1.0/"
 	apiDraftCreate = "draft/create"
 )
 
